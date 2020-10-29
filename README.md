@@ -13,12 +13,9 @@ The results on COCO 2017 val is shown in the below table.
 
 | Method | Backbone | Add modules  | Lr schd | box AP | Download |
 | :----: | :------: | :-------:  | :-----: | :----: | :------: |
-| Faster RCNN | R-50-FPN | HGD-FPN |  1x  | 40.0|
-[model]()  |
-| RetinaNet | R-50-FPN | HGD-FPN |  1x  | 37.8|
-[model]()  |
-| FreeAnchor | R-50-FPN | HGD-FPN |  1x  | 40.8|
-[model]()  |
+| Faster RCNN | R-50-FPN | HGD-FPN |  1x  | 40.0| [model]()  |
+| RetinaNet | R-50-FPN | HGD-FPN |  1x  | 37.8| [model]()  |
+| FreeAnchor | R-50-FPN | HGD-FPN |  1x  | 40.8| [model]()  |
 
 ## Citations
 Please cite our paper in your publications if it helps your research:
