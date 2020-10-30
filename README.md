@@ -1,10 +1,10 @@
 # HGD_FPN for object detection
 
-##Introduction 
+## Introduction 
 
-##Get Started
+## Get Started
 The implementation of HGD-FPN and the configs for training are in ```HGD_FPN``` directory.
-You need to install mmdetection (version1.1.0 with mmcv 0.4.3).  
+You need to install mmdetection (version1.1.0 with mmcv 0.4.3).
 The files in ```HGD_FPN``` directory have same folder organization as mmdetecion.
 More guidance can be found from [mmdeteion](https://github.com/open-mmlab/mmdetection).
 
