@@ -21,7 +21,7 @@ The results on COCO 2017 val is shown in the below table.
 Please cite our paper in your publications if it helps your research:
 ```
 @inproceedings{wang2020SEPC,
-    title =  {A Holistically-Guided Decoder for Deep Representation Learning with Applications to Semantic Segmentation and Object Detection},
+    title     =  {A Holistically-Guided Decoder for Deep Representation Learning with Applications to Semantic Segmentation and Object Detection},
     author    =  {Jianbo, Liu and Sijie, Ren and Yuanjie, Zheng and Xiaogang, Wang and Hongsheng, Li},
     booktitle =  {Arxiv},
     year      =  {2020}
