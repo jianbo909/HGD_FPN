@@ -1,6 +1,7 @@
 # HGD_FPN for object detection
 
 ## Introduction 
+![image](img/hgd_fpn.png)
 
 ## Get Started
 The implementation of HGD_FPN and the configs for training are in ```HGD_FPN``` directory.
@@ -20,7 +21,7 @@ The results on COCO 2017 val is shown in the below table.
 ## Citations
 Please cite our paper in your publications if it helps your research:
 ```
-@inproceedings{wang2020SEPC,
+@inproceedings{liu2020,
     title     =  {A Holistically-Guided Decoder for Deep Representation Learning with Applications to Semantic Segmentation and Object Detection},
     author    =  {Jianbo, Liu and Sijie, Ren and Yuanjie, Zheng and Xiaogang, Wang and Hongsheng, Li},
     booktitle =  {Arxiv},
